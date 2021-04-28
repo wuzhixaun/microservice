@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-common/micro-common.iml" filepath="$PROJECT_DIR$/micro-common/micro-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-config/micro-config.iml" filepath="$PROJECT_DIR$/micro-config/micro-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-email/micro-email.iml" filepath="$PROJECT_DIR$/micro-email/micro-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka/micro-eureka.iml" filepath="$PROJECT_DIR$/micro-eureka/micro-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-feign/micro-feign.iml" filepath="$PROJECT_DIR$/micro-feign/micro-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-hystrix/micro-hystrix.iml" filepath="$PROJECT_DIR$/micro-hystrix/micro-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-ribbon/micro-ribbon.iml" filepath="$PROJECT_DIR$/micro-ribbon/micro-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-sleuth/micro-sleuth.iml" filepath="$PROJECT_DIR$/micro-sleuth/micro-sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-user/micro-user.iml" filepath="$PROJECT_DIR$/micro-user/micro-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-zuul/micro-zuul.iml" filepath="$PROJECT_DIR$/micro-zuul/micro-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice.iml" filepath="$PROJECT_DIR$/microservice.iml" />
+    </modules>
+  </component>
+</project>

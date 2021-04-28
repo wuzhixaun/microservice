@@ -1,0 +1,16 @@
+server:
+  port: 8070
+spring:
+  application:
+    name: micro-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/wuzhixuan/config-repo.git
+          username: wuzhixuan
+          password: wzx13681820556
+logging:
+  level:
+    org.springframework.cloud: DEBUG
+    org.springframework.boot: DEBUG

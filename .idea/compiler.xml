@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="micro-config" />
+        <module name="micro-zuul" />
+        <module name="micro-ribbon" />
+        <module name="micro-user" />
+        <module name="micro-eureka" />
+        <module name="micro-hystrix" />
+        <module name="micro-sleuth" />
+        <module name="micro-common" />
+        <module name="micro-email" />
+        <module name="micro-feign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="micro-common" target="1.8" />
+      <module name="micro-config" target="1.8" />
+      <module name="micro-email" target="1.8" />
+      <module name="micro-eureka" target="1.8" />
+      <module name="micro-feign" target="1.8" />
+      <module name="micro-hystrix" target="1.8" />
+      <module name="micro-ribbon" target="1.8" />
+      <module name="micro-sleuth" target="1.8" />
+      <module name="micro-user" target="1.8" />
+      <module name="micro-zuul" target="1.8" />
+      <module name="microservice" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="micro-common" options="-parameters" />
+      <module name="micro-config" options="-parameters" />
+      <module name="micro-email" options="-parameters" />
+      <module name="micro-eureka" options="-parameters" />
+      <module name="micro-feign" options="-parameters" />
+      <module name="micro-hystrix" options="-parameters" />
+      <module name="micro-ribbon" options="-parameters" />
+      <module name="micro-sleuth" options="-parameters" />
+      <module name="micro-user" options="-parameters" />
+      <module name="micro-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

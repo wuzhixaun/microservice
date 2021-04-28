@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/micro-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-email/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-feign/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-feign/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-hystrix/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-ribbon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-sleuth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>

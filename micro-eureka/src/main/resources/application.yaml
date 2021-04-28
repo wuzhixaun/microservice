@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: micro-eureka
+server:
+  port: 8000
+eureka:
+  server:
+    enable-self-preservation: false #关闭自我保护机制
+  client:
+    register-with-eureka: false # 是否要注册到其他Eureka Server实例
+    fetch-registry: false # 是否要从其他Eureka Server实例获取数据
+    service-url:
+      defaultZone: http://localhost:${server.port}/eureka/
+
